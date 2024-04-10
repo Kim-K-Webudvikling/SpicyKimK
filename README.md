@@ -1,2 +1,2 @@
 # SpicyKimK
-Issues beskrivelseer
+Issues beskrivelser
